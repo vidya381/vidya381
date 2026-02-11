@@ -38,12 +38,12 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vidya381&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidya381&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vidya381&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vidya381&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidya381&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidya381&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
