@@ -38,8 +38,8 @@
 ## GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vidya381&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vidya381&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-dusky-50.vercel.app/api?username=vidya381&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-dusky-50.vercel.app/api/top-langs?username=vidya381&layout=compact&theme=radical&count_private=true"/>
 </p>
 
 <p align="center">
