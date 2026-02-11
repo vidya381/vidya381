@@ -37,21 +37,14 @@
 
 ## GitHub Activity
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vidya381&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidya381&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidya381&theme=radical&hide_border=true" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vidya381&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidya381&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidya381&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
 
 <p align="center">
   <picture>
