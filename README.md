@@ -2,7 +2,7 @@
 
 > **I'm a software engineer who builds backend systems that scale. I specialize in Java and Spring Boot, working with microservices, Kafka pipelines, and databases (SQL and NoSQL). I've built production services on AWS and Azure that handle high-volume transactions. I enjoy debugging tricky problems, figuring out why systems break under load, and contributing to open source.**
 
-[LinkedIn](https://linkedin.com/in/vidyasagarreddydesu) | [d.vidya381@gmail.com](mailto:d.vidya381@gmail.com)
+[LinkedIn](https://linkedin.com/in/vidyasagarreddydesu) | [Portfolio](https://vidyadesu.vercel.app/) | [d.vidya381@gmail.com](mailto:d.vidya381@gmail.com) 
 
 ---
 
